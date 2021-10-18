@@ -1,40 +1,14 @@
 # redesigned-adventure
 Une super aventure
 
-ibfiafiahiafhfa
 
+ Text attributes _italic_,
+**bold**, `monospace`. Some implementations may use *single-asterisks* for italic text.
 
-rigjezogjez
+Horizontal rule:
 
+---
 
-cdvffffe
-
-fezkpoezkpezk
-ze
-g
-ezg
-ezg
-
-C'est super les beignets à la pomme
-Mais j'aime aussi les Ultralisks
-
-uihezuihehfez
-
-
-erregrergergere
-redesignedre
-gre
-gre
-
-ouezhueizhfueizhe
-
-ezgze
-gez
-gezazza
-za
-zc
-azc
-zazaaz
-
-
+Strikethrough:
+~~strikethrough~~
 
